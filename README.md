@@ -24,7 +24,6 @@ SKILLS
 
 · Java 
 
-
 · Software Development
 
 · BBDD 
