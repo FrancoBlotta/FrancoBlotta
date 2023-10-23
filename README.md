@@ -15,13 +15,24 @@ Let's connect and explore exciting tech opportunities!
 SKILLS
 
 · Postman 
+
 · Amazon Web Services (AWS) 
-· TEAMWORK 
+
+· Teamwork
+
 · Java
+
 · Software Development
+
 · BBDD 
+
 · SQL 
+
 · Scrum 
+
 · JIRA 
+
 · Maven 
+
 · Junit
+
