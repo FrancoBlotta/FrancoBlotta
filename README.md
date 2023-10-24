@@ -20,8 +20,6 @@ SKILLS
 
 · Amazon Web Services (AWS) 
 
-· Teamwork
-
 · Java 
 
 · Software Development
