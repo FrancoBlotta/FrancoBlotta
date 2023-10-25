@@ -20,7 +20,6 @@ We can connect to play some games of Chess ♟
 ## SKILLS
 
 -  Postman 
--  Amazon Web Services (AWS) 
 
 -  Java 
 
